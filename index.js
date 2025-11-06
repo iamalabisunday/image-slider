@@ -1,6 +1,6 @@
 "use strict";
 
-const buttons = document.querySelectorAll(".buttons a");
+const buttons = document.querySelectorAll(".btn");
 const slides = document.querySelectorAll(".slide");
 
 // Make first image visible at start
